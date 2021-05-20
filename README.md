@@ -1,3 +1,6 @@
+### A Sekiro inspired colorscheme
+_From the corrupted monk fight_
+
 ![Shadows Die Twice](https://github.com/mvargasmoran/shadows-die-twice-vim/raw/master/looks.png)
 
 # Warning
