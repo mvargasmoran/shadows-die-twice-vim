@@ -5,4 +5,4 @@ This is still in development
 
 # Installation
 ```VimL
-Plug 'ayu-theme/ayu-vim' " or other package manager
+Plug 'mvargasmoran/shadows-die-twice-vim' " or other package manager
